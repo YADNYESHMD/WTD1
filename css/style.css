@@ -1,0 +1,27 @@
+h3,h1{
+  background-color: gold;
+  color: mediumvioletred;
+
+  }
+body{
+  background: black;
+}
+.white{
+  color: lightyellow;
+
+}
+nav{
+  background: khaki;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: mediumvioletred;
+  width: 100%;
+}
+a:hover{
+  background: mediumvioletred;
+  color: gold;
+  text-decoration: underline;
+
+}
